@@ -2,7 +2,7 @@
 
 A curated MATLAB collection of numerical analysis solvers implementing root-finding, integration, systems of nonlinear equations, ODE solvers, and fluid dynamics simulations. Developed as part of advanced coursework in numerical methods.
 
-## 🔧 Features
+##  Features
 
 ### ✔ Root-Finding Techniques
 - **Bisection**, **Secant**, and **Newton-Raphson** methods for solving non-linear equations (e.g., spherical tank depth, projectile motion).
@@ -37,7 +37,7 @@ A curated MATLAB collection of numerical analysis solvers implementing root-find
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open MATLAB.
 2. Place all files in the same folder.
