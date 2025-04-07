@@ -4,25 +4,25 @@ A curated MATLAB collection of numerical analysis solvers implementing root-find
 
 ##  Features
 
-### ✔ Root-Finding Techniques
+### Root-Finding Techniques
 - **Bisection**, **Secant**, and **Newton-Raphson** methods for solving non-linear equations (e.g., spherical tank depth, projectile motion).
 
-### ✔ Numerical Integration
+### Numerical Integration
 - **Trapezoidal**, **Simpson’s**, and **Gauss-Legendre Quadrature** to estimate physical quantities like magnetic field from Biot-Savart law.
 
-### ✔ Nonlinear Systems
+### Nonlinear Systems
 - Newton-Raphson method to solve a system of biochemical equations involving substrate and biomass concentration.
 
-### ✔ ODE Solvers
+### ODE Solvers
 - Simulation of spring-mass-damper system using **Euler** and **Runge-Kutta (RK4)** methods.
 - Analysis of projectile trajectory under gravity and air drag.
 
-### ✔ Finite Difference Method (FDM)
+### Finite Difference Method (FDM)
 - Couette flow profile analysis using second-order FDM and validation with exact solution.
 
 ---
 
-## 📁 File Overview
+##  File Overview
 
 | File             | Description                                                         |
 |------------------|---------------------------------------------------------------------|
@@ -51,8 +51,7 @@ Replace `1` with `2` to `6` for other exercises.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Yasmine Elsisi**  
-📍 NYU Abu Dhabi  
-🔗 [github.com/YasmineElsisi](https://github.com/YasmineElsisi)
+
